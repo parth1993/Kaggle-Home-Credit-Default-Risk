@@ -40,3 +40,12 @@ To perform a thorough exploratory data analysis (EDA) on the `application_train.
 **Data Visualization**: 
 - Use visualizations to understand the data better.
 
+## Further Steps :- 
+- Performing the above steps on `application_test.csv`
+- Get feature importance using tree-based algorithms like RandomForest or lightGBM
+- Train xgboost model on finalized features
+  
+**This is a basic EDA due to limited bandwidth**
+ For the next iteration, we can perform
+- Feature analysis in depth
+- Outlier analysis in depth
